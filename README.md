@@ -1,5 +1,5 @@
 # Airspace-drone-sim
-A program writtein in F# that simulates flying numerous drones through an airspace and records their collisions.
+A program writte in in F# that simulates flying numerous drones through an airspace and records their collisions.
 
 Christer Kold Lindholm 
 10-12-2022
